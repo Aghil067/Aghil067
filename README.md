@@ -2,7 +2,7 @@
 
 I’m a passionate B.Tech IT student at **Sathyabama Institute of Science and Technology**, driven by a curiosity for technology and a love for building cool stuff. I enjoy working on full-stack development projects and exploring modern web technologies.
 
-![Aghileswaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aghilesh26&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Aghileswaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aghil067&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
